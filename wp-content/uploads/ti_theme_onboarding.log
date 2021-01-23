@@ -1,0 +1,21 @@
+[08/May/2020:12:18:51] (ℹ️): WordPress Instance Info:
+[08/May/2020:12:18:51] (ℹ️): Home URL : https://www.ceuvelswingcamp.nl
+[08/May/2020:12:18:51] (ℹ️): Site URL : https://www.ceuvelswingcamp.nl
+[08/May/2020:12:18:51] (ℹ️): WordPress Version : 5.4.1
+[08/May/2020:12:18:51] (ℹ️): Onboarding Version : 1.8.2
+[08/May/2020:12:18:51] (ℹ️): Multisite : No
+[08/May/2020:12:18:51] (ℹ️): Server Info : Apache
+[08/May/2020:12:18:51] (ℹ️): PHP Version : 7.2.28
+[08/May/2020:12:18:51] (ℹ️): HTTPS : Yes
+[08/May/2020:12:18:51] (ℹ️): PHP Max Execution Time : 120
+[08/May/2020:12:18:51] (ℹ️): PHP Max Input Vars : 5000
+[08/May/2020:12:18:51] (ℹ️): Max Upload Size : 134217728
+[08/May/2020:12:18:51] (ℹ️): Plugins:
+[08/May/2020:12:18:51] (ℹ️): [PLUGIN] Cookie Notice : v1.3.1 (dFactory)
+[08/May/2020:12:18:51] (ℹ️): [PLUGIN] Google Analytics for WordPress by MonsterInsights : v7.10.4 (MonsterInsights)
+[08/May/2020:12:18:51] (ℹ️): [PLUGIN] MC4WP: Mailchimp for WordPress : v4.7.7 (ibericode)
+[08/May/2020:12:18:51] (ℹ️): [PLUGIN] UpdraftPlus - Backup/Restore : v1.16.23 (UpdraftPlus.Com, DavidAnderson)
+[08/May/2020:12:18:51] (ℹ️): [PLUGIN] Yoast SEO Premium : v5.6 (Team Yoast)
+[08/May/2020:12:18:51] (ℹ️): [PLUGIN] WP-Optimize - Clean, Compress, Cache : v3.0.19 (David Anderson, Ruhani Rabin, Team Updraft)
+[08/May/2020:12:18:51] (ℹ️): [PLUGIN] WP Super Cache : v1.7.1 (Automattic)
+[08/May/2020:12:18:51] (ℹ️): [PLUGIN] Yoast SEO: Local : v5.6 (Team Yoast and Arjan Snaterse)
